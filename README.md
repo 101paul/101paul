@@ -29,7 +29,7 @@
   <tr>
     <td>Git & GitHub 🐙</td>
     <td>REST APIs ⚡</td>
-    <td>Android Jetpack 📱</td>
+    <td>Python 🐍</td>
     <td>Curious AI Technology 🤖</td>
   </tr>
 </table>  
