@@ -30,7 +30,7 @@
     <td>Git & GitHub 🐙</td>
     <td>REST APIs ⚡</td>
     <td>Python 🐍</td>
-    <td>Curious AI Technology 🤖</td>
+    <td>TensorFlow 🤖</td>
   </tr>
 </table>  
 
@@ -46,7 +46,7 @@
 ## 🚀 About Me  
 ✔️ Final-year Engineering Student  
 ✔️ Passionate about **Mobile Development** & **Backend Integration**  
-✔️ Exploring **AI-powered applications**  
+✔️ Exploring **AI/ML with TensorFlow & Python**  
 
 ---
 
