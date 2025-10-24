@@ -1,7 +1,4 @@
 <!-- markdownlint-disable MD033 MD041 -->
-<p align="center">
-  <h3 align="center">⌨️ Hi, I am Nirupam Paul</h3>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Hey+%F0%9F%91%8B%2C+WhatsApp!;I+am+Nirupam+Paul&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000" alt="Typing Animation">
