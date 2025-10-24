@@ -7,8 +7,8 @@
 
 ## 🚀 About Me
 - Final-year Engineering Student  
-- Passionate about **Android Development**, **Java & Kotlin**, and **Backend Integration**  
-- Exploring **Firebase**, **Spring Boot**, and **AI/ML with Python & TensorFlow**
+- Passionate about **Android Development**, **Java & Kotlin** and **Backend Integration**  
+- Exploring **Firebase**, **Spring Boot** and **AI/ML with Python & TensorFlow**
 
 ## 🌐 Connect with me
 <p align="left">
