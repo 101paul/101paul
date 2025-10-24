@@ -21,5 +21,6 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting+my+profile!;See+you+next+time+%F0%9F%91%8B&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000" alt="Ending Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting+my+profile!;See+you+next+time+%F0%9F%91%8B&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000&color=000000" alt="Thank You Typing Animation">
 </p>
+
