@@ -1,13 +1,23 @@
 # 👋 Hi, I'm Nirupam Paul  
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Android+Developer;Full+Stack+Android+Apps;Firebase+&+Spring+Boot&font=Fira%20Code&center=true&width=500&height=50&duration=4000&pause=1000" alt="Typing Animation">
+</p>
+
 🚀 A passionate Android Developer | Java | Kotlin | Firebase | Spring Boot  
 💡 Always curious to learn new technologies and solve real-world problems.  
 
 ---
 
 ## 🌐 Connect with me  
-- 💼 [LinkedIn](https://www.linkedin.com/in/nirupam-paul101)  
-- 📧 paulnirupam204@gmail.com  
+<p align="center">
+  <a href="https://www.linkedin.com/in/nirupam-paul101">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:paulnirupam204@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -51,4 +61,10 @@
 ---
 
 ## 🎨 Fun Quote  
-Code is like humor. When you have to explain it, it’s bad
+*"Code is like humor. When you have to explain it, it’s bad."*  
+
+---
+
+<p align="center">
+  [☕ Buy me a coffee](https://ko-fi.com/jlawrence)
+</p>
