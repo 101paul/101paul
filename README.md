@@ -7,13 +7,11 @@
 
 ## 🚀 About Me
 - 🎓 **Final-year Engineering Student**
-- 💼 Currently working at **My Cash**
 - 💚 Active within the **Android Community**
-- 📱 Passionate about **Android Development**, **Java & Kotlin**, and **Backend Integration**
+- 📱 Passionate about **Android Development**, **Java & Kotlin** and **Backend Integration**
 - 🌱 Learning all about **Android** and focusing on **mobile app performance**
-- ☁️ Exploring **Firebase**, **Spring Boot**, and **AI/ML with Python & TensorFlow**
-- 🤝 Interested in contributing to **Android Open Source** and **large-scale projects**
-- 🗓️ Looking forward to collaborating on **open-source** initiatives
+- ☁️ Exploring **AI/ML with Python & TensorFlow**
+- 🗓️ Interested in contributing to **Android Open Source** and **large-scale projects**
 
 ---
 
