@@ -6,9 +6,10 @@
 <!-- markdownlint-enable MD033 -->
 
 ## 🚀 About Me
-- Final-year Engineering Student  
-- Passionate about **Android Development**, **Java & Kotlin** and **Backend Integration**  
-- Exploring **Firebase**, **Spring Boot** and **AI/ML with Python & TensorFlow**
+- 🎓 **Final-year Engineering Student**
+- 💚 Active within the **Android Community**
+- 🌱 Learning all about **Android** and focusing on **mobile app performance**
+- 🗓️ Looking forward to collaborating on **open-source** initiatives
 
 ## 🌐 Connect with me
 <p align="left">
@@ -23,5 +24,3 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Thank+you+for+visiting+my+profile!;See+you+next+time+%F0%9F%91%8B&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000&color=000000" alt="Thank You Typing Animation">
 </p>
-
-
