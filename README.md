@@ -18,7 +18,7 @@
 ## 📊 GitHub Stats & Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=101paul&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=101paul&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6&hide_border=false" height="150"  />
 </p>
 
 <p align="center">
