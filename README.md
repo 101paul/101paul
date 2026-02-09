@@ -25,18 +25,6 @@
 
 ---
 
-## 📊 GitHub Stats & Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=101paul&show_icons=true&locale=en&layout=compact&theme=dark&langs_count=6" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,ts,js,python,tailwind" alt="Languages & Tools" />
-</p>
-
----
-
 ## 🌐 Connect with Me
 
 <p align="left">
@@ -51,5 +39,6 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!;Let’s+build+something+awesome+🚀&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000&color=000000" alt="Thank You Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Thanks+for+stopping+by!;Lets+build+something+awesome+%F0%9F%9A%80&font=Fira%20Code&center=true&width=500&height=50&duration=3000&pause=1000&color=000000" alt="Typing Animation">
 </p>
+
